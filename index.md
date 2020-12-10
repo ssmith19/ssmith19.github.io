@@ -46,8 +46,8 @@ My long-term goals are to complete my Psychiatric Mental Health Nurse Practition
 
 | SAFETY  | TEAMWORK & COLLABORATION |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+|Safety is paramount in nursing practice. It includes not only minimizing and preventing harm to patients, but for other healthcare personnel as well. Nurses are essential in the surveillance and synergism that reduce adverse patient events. It is important for nurses to be aware of human factors and commonly used unsafe practices that contribute to a hazardous care environment. Dangerous abbreviations, workarounds, lack of communication, and an over reliance on memory are key contributors of unsafe practices. To minimize unsafe practices a culture of safety must be established through the use of technology, checklists, open communication, and standardized error reporting systems. A culture of safety also includes being aware of one’s surroundings, not over relying on technology, and questioning anything that may not seem “right.” To further develop safety skills healthcare professionals must utilize valuable resources such as the national patient safety guidelines and initiatives.| Content Cell  |
+|In clinical practice, I have increased safety by participating in hourly patient rounding, using checklists, following the medication administration rights, maintaining seizure and fall precautions, and asking for help when needed. I understand the importance of being accountable for mistakes that do occur and promptly reporting them. As a future healthcare provider, I will maintain safe practices by keeping up to date with the latest national safety campaigns and remaining critical of my own care performance. I will continue to promote a culture of safety and hold myself to a high standard of care to minimize harm to patients and the healthcare team. | Content Cell  |
 
 | EVIDENCE-BASED PRACTICE  | INFORMATICS |
 | ------------- | ------------- |
