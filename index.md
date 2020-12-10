@@ -51,6 +51,6 @@ My long-term goals are to complete my Psychiatric Mental Health Nurse Practition
 
 | EVIDENCE-BASED PRACTICE  | INFORMATICS |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Content Cell  | Informatics streamlines communication and facilitates continuity of care. It allows members of the healthcare team to efficiently collaborate, manage knowledge, improve patient safety, and make decisions. Our healthcare system is dynamic; technology plays an important role in both nursing education and clinical practice. In today’s world, nurses are using technology more frequently and have the most communication with patients. Technology and information are essential to providing safe patient care. Thus, it is essential that nurses are able to accurately document patient information and are proficient in computer systems. Informatics, if applied successfully, can help improve patient outcomes, minimize errors, and increase overall productivity.|
+| Content Cell  | In clinical practice, I use informatics to improve patient safety by utilizing barcode scanning systems during medication administration, automated IV pumps to control fluids/medications dosages and drips, and when analyzing electronic health records. Informatics can help to reduce human error and adds an extra safety check. However, I acknowledge that technology is not free of error, it is important to always double check all processes to ensure optimal patient safety. For example, though the bar code scanning system eases the medication administration process, it is not a replacement for the rights of medication administration. As a future healthcare provider, I will continue to use technology to provide safe, effective care to patients.|
 
