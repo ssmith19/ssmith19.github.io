@@ -1,4 +1,4 @@
-## Sarita Smith
+## Sarita A. Smith
 
 **Email: ssmith19@apu.edu**<br/>
 <img align="right" width="400" height="400" src="https://github.com/ssmith19/ssmith19.github.io/blob/main/heart-400.png?raw=true">
