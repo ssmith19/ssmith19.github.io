@@ -1,10 +1,10 @@
 ## Sarita Smith
 
 **Email: ssmith19@apu.edu**<br/>
+<img align="right" width="400" height="400" src="https://github.com/ssmith19/ssmith19.github.io/blob/main/heart-400.jpg?raw=true">
 
 - [Personal Philosophy](#personal-philosophy)<br>
 - [QSEN COMPENTENCIES](#qsen-compentencies)<br>
-<img align="right" width="400" height="400" src="https://github.com/ssmith19/ssmith19.github.io/blob/main/heart-400.jpg">
 
 
 ### Welcome
