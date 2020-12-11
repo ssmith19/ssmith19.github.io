@@ -1,6 +1,6 @@
 ## Sarita Smith
 
-[E-mail](ssmith19@apu.com)<br/>
+[Email: ssmith19@apu.com](ssmith19@apu.com)<br/>
 - [Personal Philosophy](#personal-philosophy)<br>
 - [QSEN COMPENTENCIES](#qsen-compentencies)<br>
 
