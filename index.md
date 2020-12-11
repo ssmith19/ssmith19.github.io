@@ -1,8 +1,10 @@
-## Welcome
+## Sarita Smith
 
 Quick [edits](https://github.com/ssmith19/ssmith19.github.io/edit/main/index.md) 
 
+### Welcome
 Passionate Nurse<br/>
+
 My [resume](https://github.com/ssmith19/ssmith19.github.io/blob/main/ResumeSSmith.pdf)
 
 ### Personal Philosophy 
