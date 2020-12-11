@@ -5,7 +5,7 @@ You can use the [editor on GitHub](https://github.com/ssmith19/ssmith19.github.i
 ### Welcome
 
 Passionate Nurse
-My [resume](https://github.com/ssmith19/ssmith19.github.io/blob/main/Resume S.Smith.pdf)
+My [resume](https://github.com/ssmith19/ssmith19.github.io/blob/main/ResumeSSmith.pdf)
 
 ### Personal Philosophy 
    
