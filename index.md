@@ -1,6 +1,6 @@
 ## Sarita Smith
 
-Quick [edits](https://github.com/ssmith19/ssmith19.github.io/edit/main/index.md)<br/>
+[E-mail](ssmith19@apu.com)<br/>
 - [Personal Philosophy](#personal-philosophy)<br>
 - [QSEN COMPENTENCIES](#qsen-compentencies)<br>
 
