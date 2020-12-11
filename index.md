@@ -1,8 +1,10 @@
 ## Sarita Smith
+![](https://github.com/ssmith19/ssmith19.github.io/blob/main/heart-400.png?raw=true)
 
 **Email: ssmith19@apu.edu**<br/>
 - [Personal Philosophy](#personal-philosophy)<br>
 - [QSEN COMPENTENCIES](#qsen-compentencies)<br>
+
 
 ### Welcome
 **Passionate Nurse**<br/>
