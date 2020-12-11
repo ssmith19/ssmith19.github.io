@@ -8,6 +8,7 @@
 **Passionate Nurse**<br/>
 
 [My resume](https://github.com/ssmith19/ssmith19.github.io/blob/main/ResumeSSmith.pdf)<br>
+[Basic Life Support](https://github.com/ssmith19/ssmith19.github.io/blob/main/BasicLifeSupport.pdf)<br>
 [Sigma Tau Membership](https://github.com/ssmith19/ssmith19.github.io/blob/main/SSmith_SigmaTauMembership.png)<br>
 ### Personal Philosophy 
    
