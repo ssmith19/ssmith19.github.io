@@ -8,13 +8,14 @@
 
 
 ### Welcome
-**Passionate Nurse**<br/>
+**A Passionate Nurse continuious learning**<br/>
 
 [My resume](https://github.com/ssmith19/ssmith19.github.io/blob/main/ResumeSSmith.pdf)<br>
 [Basic Life Support](https://github.com/ssmith19/ssmith19.github.io/blob/main/BasicLifeSupport.pdf)<br>
 [Hospital Fire & Life Safety](https://github.com/ssmith19/ssmith19.github.io/blob/main/HospitalFireandLifeSafety.png)<br>
 [NIHSS Certification](https://github.com/ssmith19/ssmith19.github.io/blob/main/NIHSSACertification%20.pdf)<br>
 [Sigma Tau Membership](https://github.com/ssmith19/ssmith19.github.io/blob/main/SSmith_SigmaTauMembership.png)<br>
+
 ### Personal Philosophy 
    
 **My personal philosophy includes the commitment to be a lifelong learner, educator, and patient advocate. I am dedicated to caring for every patient and family member holistically including physical, mental, emotional, and spiritual dimensions of wellbeing. I believe that nursing embraces quality patient-centered care through compassion, empathy, and advocacy. These traits establish a healing atmosphere emphasizing education and health promotion to achieve peak patient wellbeing. Nursing is a work of the heart, the perfect blend of art and science. I’m called to nursing because satisfies my desire to make the world a better place through the care of others.**
