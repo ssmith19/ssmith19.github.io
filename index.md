@@ -1,7 +1,8 @@
 ## Sarita Smith
 
 Quick [edits](https://github.com/ssmith19/ssmith19.github.io/edit/main/index.md)<br/>
-[Go to Personal Philosophy](#personal-philosophy)
+[Personal Philosophy](#personal-philosophy)<br>
+[QSEN COMPENTENCIES](#qsen-compentencies)<br>
 
 ### Welcome
 Passionate Nurse<br/>
