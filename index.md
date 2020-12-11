@@ -1,6 +1,7 @@
 ## Sarita Smith
 
-Quick [edits](https://github.com/ssmith19/ssmith19.github.io/edit/main/index.md) 
+Quick [edits](https://github.com/ssmith19/ssmith19.github.io/edit/main/index.md)<br/>
+[Go to Personal Philosophy](#personal-philosophy)
 
 ### Welcome
 Passionate Nurse<br/>
