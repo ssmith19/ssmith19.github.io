@@ -1,6 +1,6 @@
 ## Sarita Smith
 
-**Email: ssmith19@apu.com**<br/>
+**Email: ssmith19@apu.edu**<br/>
 - [Personal Philosophy](#personal-philosophy)<br>
 - [QSEN COMPENTENCIES](#qsen-compentencies)<br>
 
@@ -10,6 +10,7 @@
 [My resume](https://github.com/ssmith19/ssmith19.github.io/blob/main/ResumeSSmith.pdf)<br>
 [Basic Life Support](https://github.com/ssmith19/ssmith19.github.io/blob/main/BasicLifeSupport.pdf)<br>
 [Hospital Fire & Life Safety](https://github.com/ssmith19/ssmith19.github.io/blob/main/HospitalFireandLifeSafety.png)<br>
+[NIHSS Certification](https://github.com/ssmith19/ssmith19.github.io/blob/main/NIHSSACertification%20.pdf)<br>
 [Sigma Tau Membership](https://github.com/ssmith19/ssmith19.github.io/blob/main/SSmith_SigmaTauMembership.png)<br>
 ### Personal Philosophy 
    
