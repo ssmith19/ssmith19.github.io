@@ -8,7 +8,7 @@
 
 
 ### Welcome
-**A Passionate Nurse continuious learning**<br/>
+**A Passionate Nurse continuiously learning**<br/>
 
 [My resume](https://github.com/ssmith19/ssmith19.github.io/blob/main/ResumeSSmith.pdf)<br>
 [Basic Life Support](https://github.com/ssmith19/ssmith19.github.io/blob/main/BasicLifeSupport.pdf)<br>
