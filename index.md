@@ -1,13 +1,13 @@
 ## Sarita Smith
 
-[Email: ssmith19@apu.com](ssmith19@apu.com)<br/>
+**Email: ssmith19@apu.com**<br/>
 - [Personal Philosophy](#personal-philosophy)<br>
 - [QSEN COMPENTENCIES](#qsen-compentencies)<br>
 
 ### Welcome
-Passionate Nurse<br/>
+**Passionate Nurse**<br/>
 
-My [resume](https://github.com/ssmith19/ssmith19.github.io/blob/main/ResumeSSmith.pdf)
+[My resume](https://github.com/ssmith19/ssmith19.github.io/blob/main/ResumeSSmith.pdf)
 
 ### Personal Philosophy 
    
