@@ -11,6 +11,7 @@
 **A Passionate Nurse continuously learning**<br/>
 
 [My resume](https://github.com/ssmith19/ssmith19.github.io/blob/main/ResumeSSmith.pdf)<br>
+[RN License]()<br>
 [Basic Life Support](https://github.com/ssmith19/ssmith19.github.io/blob/main/BasicLifeSupport.pdf)<br>
 [Hospital Fire & Life Safety](https://github.com/ssmith19/ssmith19.github.io/blob/main/HospitalFireandLifeSafety.png)<br>
 [NIHSS Certification](https://github.com/ssmith19/ssmith19.github.io/blob/main/NIHSSACertification%20.pdf)<br>
